@@ -9,6 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.RoomDatabaseCrudDemo">
+
+        <activity android:name=".NewCourseActivity"
+            android:exported="true"></activity>
+
         <activity
             android:name=".MainActivity"
             android:exported="true">

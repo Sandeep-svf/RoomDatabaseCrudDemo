@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/admin/AndroidStudioProjects/RoomDatabaseCrudDemo/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dmin/StudioProjects/RoomDatabaseCrudDemo/app/src/main/res/layout/activity_main.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/dmin/StudioProjects/RoomDatabaseCrudDemo/app/src/main/res/layout/activity_new_course.xml" value="0.209375" />
+        <entry key="..\:/Users/dmin/StudioProjects/RoomDatabaseCrudDemo/app/src/main/res/layout/course_rv_item.xml" value="0.209375" />
       </map>
     </option>
   </component>
